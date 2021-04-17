@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital@1&family=IBM+Plex+Sans:ital,wght@1,200&family=Noto+Sans+JP:wght@300&family=Questrial&display=swap');
+
+*{ max-width: 960px;  margin: auto; background-color: cornsilk;}
+
+header{  background-color: rgb(147, 152, 196);}
+
+#title{font-size: 50px; justify-content: center; text-align: center; font-family: 'Questrial', sans-serif;}
+
+#subtext{font-size: 20px; text-align: center; font-family: 'Questrial', sans-serif;}
+
+#img-div{text-align: center;}
+
+#img{width: 100%; height: auto;}
+
+h4{ text-align: center; line-height: 4; font-size: 18px; font-family: 'Noto Sans JP', sans-serif;}
+
+#tribute-list{line-height: 1.6; font-family: 'Cormorant Garamond', serif;  font-size: 20px;}
+
+li{margin: 10px 0px;}
+
+blockquote{ line-height: 50px;  margin: 40px 0px;  font-style: italic;font-family: 'Raleway', sans-serif;}
+
+cite{line-height: 100px;}
+
+footer{ margin: 40px 20px;  font-size: 25px;  text-align: center;  font-family: 'IBM Plex Sans', sans-serif;}
